@@ -1,3 +1,3 @@
 # Serhii Kryvosheiev
-# Kharkiv Ukrane
-# seregakr28@gmail.com
+# adress: Kharkiv Ukrane
+# mail: seregakr28@gmail.com
